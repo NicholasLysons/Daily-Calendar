@@ -6,11 +6,11 @@ Have you ever wanted an app that can allow you to plan out your work day each da
 Now knowing what this, here is an example:
 ## Screenshot
 
-(https://docs.google.com/document/d/1x7zJgsZSmFzfPlMi-1tq2veBNiEWKE12yjm9RTWSrRQ/edit?usp=sharing)
+(https://docs.google.com/document/d/1IWfMJ2tRTl1FBt5wx5j_jI-KCji63PvEx6iMuJjBJyw/edit?usp=sharing)
 
 ## Deployed URL
 
-
+https://nicholaslysons.github.io/Daily-Calendar/
 ## Author
 
 https://github.com/NicholasLysons/Daily-Calendar
